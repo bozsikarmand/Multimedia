@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Armand's Obstacle Course (Providing data)</title>
+    <link rel="stylesheet" href="../../../assets/css/style.css" />
+    <style>
+        #player-textbox input {
+            outline: 0;
+            background: #444;
+            color: #999999;
+            width: 100%;
+            border: 0;
+            margin: 0 0 15px;
+            padding: 15px;
+            box-sizing: border-box;
+            font-size: 14px;
+        }
+    </style>
+    <meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+</head>
+<body style="background-image: url(../../../assets/images/MainMenuBackground.png)">
+<div class="center-game">
+    <form id="player-textbox">
+        <input type="text" id="textbox-playerName" placeholder="Your name:" required="required">
+        <button type="button" id="button-playerName" onclick="redirect()">Submit my score!</button>
+    </form>
+</div>
+<script src="../../controller/controller_score.js"></script>
+</body>
+</html>
+
+
+

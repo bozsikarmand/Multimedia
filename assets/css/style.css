@@ -1,0 +1,307 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: black;
+}
+
+#button-Play {
+    background-color: #cc3300;
+    border: 6px solid #cc3300;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 17px;
+    text-transform: uppercase;
+    padding: 16px 76px;
+    text-decoration: none;
+    border-radius: 42px;
+    -moz-border-radius: 42px;
+    -webkit-border-radius: 42px;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    width: 100%;
+}
+#button-Play:hover {
+    border-radius: 42px;
+    -moz-border-radius: 42px;
+    -webkit-border-radius: 42px;
+    background-color: transparent;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    border: 6px solid #bb3553;
+    padding: 16px 76px;
+    text-transform: uppercase
+}
+#button-Play:active {
+    outline: none;
+    position: relative;
+    top: 4px;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    text-transform: uppercase
+}
+#button-Play:focus {
+    outline: none;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    text-transform: uppercase
+}
+.center-indexpage {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+#button-Start {
+    background-color: #cc3300;
+    border: 6px solid #cc3300;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 17px;
+    text-transform: uppercase;
+    padding: 16px 76px;
+    text-decoration: none;
+    border-radius: 42px;
+    -moz-border-radius: 42px;
+    -webkit-border-radius: 42px;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    position: relative;
+    width: 100%;
+}
+#button-Start:hover {
+    border-radius: 42px;
+    -moz-border-radius: 42px;
+    -webkit-border-radius: 42px;
+    background-color: transparent;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    border: 6px solid #bb3553;
+    padding: 16px 76px;
+    text-transform: uppercase
+}
+#button-Start:active {
+    outline: none;
+    position: relative;
+    top: 4px;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    text-transform: uppercase
+}
+#button-Start:focus {
+    outline: none;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    text-transform: uppercase
+}
+.center-start {
+    position: absolute;
+    left: 50%;
+    top: 75%;
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+.title {
+    top: -300px;
+    position: relative;
+    color: #bb3553;
+    font-size: 40px;
+    width: 100%;
+    margin-top: 0;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 0;
+}
+.brief-title {
+    top: -500px;
+    position: relative;
+    color: #bb3553;
+    font-size: 40px;
+    width: 50%;
+    margin-top: 0;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 0;
+}
+.center-game {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+.brief-info {
+    position: relative;
+    top: -400px;
+    font-size: 26px;
+    color: yellow;
+}
+.brief-objects {
+    position: relative;
+    top: -360px;
+    font-size: 20px;
+    color: white;
+}
+div.brief-objects > span#star {
+    color: purple;
+}
+div.brief-objects > span#obstacle {
+    color: red;
+}
+div.brief-objects > span#pacman {
+    color: yellow;
+}
+.brief-controls {
+    position: relative;
+    top: -300px;
+    font-size: 16px;
+    color: #e1e1e1;
+}
+
+div.brief-controls > span#controls-title {
+    color: #999999;
+    font-size: 16px;
+    text-decoration: underline;
+    font-weight: bold;
+}
+div.brief-controls > span#controls-info {
+    position: relative;
+    top: 50px;
+    font-size: 14px;
+}
+#button-playerName {
+    background-color: #cc3300;
+    border: 6px solid #cc3300;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 17px;
+    text-transform: uppercase;
+    padding: 16px 76px;
+    text-decoration: none;
+    border-radius: 42px;
+    -moz-border-radius: 42px;
+    -webkit-border-radius: 42px;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    position: relative;
+    width: 100%;
+}
+#button-playerName:hover {
+    border-radius: 42px;
+    -moz-border-radius: 42px;
+    -webkit-border-radius: 42px;
+    background-color: transparent;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    border: 6px solid #bb3553;
+    padding: 16px 76px;
+    text-transform: uppercase
+}
+#button-playerName:active {
+    outline: none;
+    position: relative;
+    top: 4px;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    text-transform: uppercase
+}
+#button-playerName:focus {
+    outline: none;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    text-transform: uppercase
+}
+
+#button-NewGame {
+    background-color: #cc3300;
+    border: 6px solid #cc3300;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 17px;
+    text-transform: uppercase;
+    padding: 16px 76px;
+    text-decoration: none;
+    border-radius: 42px;
+    -moz-border-radius: 42px;
+    -webkit-border-radius: 42px;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    width: 100%;
+}
+#button-NewGame:hover {
+    border-radius: 42px;
+    -moz-border-radius: 42px;
+    -webkit-border-radius: 42px;
+    background-color: transparent;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    border: 6px solid #bb3553;
+    padding: 16px 76px;
+    text-transform: uppercase
+}
+#button-NewGame:active {
+    outline: none;
+    position: relative;
+    top: 4px;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    text-transform: uppercase
+}
+#button-NewGame:focus {
+    outline: none;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    text-transform: uppercase
+}
+
+/* ScoreBoard */
+
+table, th {
+    border: 2px solid wheat;
+    color: #ffffff;
+    width: 400px;
+}
+
+.center-scoreBoard {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}

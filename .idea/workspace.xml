@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a09001fb-c70d-43c5-a685-b06b070d5a4a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/game.js" afterDir="false" />
-    </list>
+    <list default="true" id="b621ca89-5f61-4876-9216-bd5832c45b90" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,7 +9,56 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="205128133">
+    <session id="687196046">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="55" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.5" value="3" />
+          <entry key="project.open.time.6" value="8" />
+          <entry key="project.open.time.7" value="22" />
+          <entry key="project.open.time.8" value="15" />
+          <entry key="project.open.time.9" value="4" />
+          <entry key="project.opened" value="56" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="17" />
+          <entry key="html" value="13" />
+          <entry key="js" value="21" />
+          <entry key="png" value="7" />
+          <entry key="ts" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="17" />
+          <entry key="HTML" value="13" />
+          <entry key="Image" value="7" />
+          <entry key="JavaScript" value="21" />
+          <entry key="TypeScript" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="1342" />
+          <entry key="html" value="2330" />
+          <entry key="js" value="12073" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="1342" />
+          <entry key="HTML" value="2330" />
+          <entry key="JavaScript" value="12073" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="289241886">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="1" />
@@ -22,55 +66,209 @@
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="css" value="1" />
-          <entry key="html" value="1" />
-          <entry key="js" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="CSS" value="1" />
-          <entry key="HTML" value="1" />
-          <entry key="JavaScript" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="html" value="88" />
-          <entry key="js" value="328" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="HTML" value="88" />
-          <entry key="JavaScript" value="328" />
-        </counts>
-      </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/game/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+              <folding>
+                <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/game/view/brief/brief_game.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="104" selection-start-line="19" selection-start-column="104" selection-end-line="19" selection-end-column="104" />
+              <folding>
+                <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/game/view/action/action_game.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="24" selection-start-line="5" selection-end-line="6" />
+              <folding>
+                <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/game/view/score/score_board_input.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="51" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
+              <folding>
+                <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/game/view/score/score_board.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="15" selection-start-column="15" selection-end-column="15" />
+              <folding>
+                <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/game/controller/controller_game.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="10999">
+              <caret line="649" column="16" selection-start-line="649" selection-start-column="16" selection-end-line="649" selection-end-column="16" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/game/controller/controller_score.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4998">
+              <caret line="294" column="17" selection-start-line="294" selection-start-column="17" selection-end-line="294" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>boom</find>
+      <find>audio</find>
+      <find>keys</find>
+      <find>kc</find>
+      <find>speed</find>
+      <find>levelOn</find>
+      <find>actualLevele</find>
+      <find>object</find>
+      <find>irany1</find>
+      <find>irany2</find>
+      <find>nextLvl</find>
+      <find>obj</find>
+      <find>obstacle</find>
+      <find>drawObj</find>
+      <find>drawO</find>
+      <find>moveObj</find>
+      <find>dir</find>
+      <find>dir3</find>
+      <find>darvObst</find>
+      <find>asd</find>
+      <find>R</find>
+      <find>Rese</find>
+      <find>draw</find>
+      <find>Coll</find>
+      <find>starOne</find>
+      <find>Object</find>
+      <find>drawObstacle</find>
+      <find>dCnt</find>
+      <find>Dobozok</find>
+      <find>localStorage</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>dCnt</replace>
+      <replace>CheckPlayerEnemyCollision</replace>
+      <replace>contestant</replace>
+      <replace>X</replace>
+      <replace>Y</replace>
+      <replace>W</replace>
+      <replace>H</replace>
+      <replace>setBackgroundAndClearLevel</replace>
+      <replace>showActualLevelText</replace>
+      <replace>StartStripEndStrip</replace>
+      <replace>levelOne</replace>
+      <replace>irany2</replace>
+      <replace>PlayerObstacleCollisionSound</replace>
+      <replace>LevelSound</replace>
+      <replace>inputKeyPressed</replace>
+      <replace>V</replace>
+      <replace>actualLevel</replace>
+      <replace>actualLevelInt</replace>
+      <replace>akadaly</replace>
+      <replace>direction1</replace>
+      <replace>direction2</replace>
+      <replace>nextLevel</replace>
+      <replace>obstacle</replace>
+      <replace>darvObstacle</replace>
+      <replace>drawObstacle</replace>
+      <replace>moveObstacle</replace>
+      <replace>directionLevel2</replace>
+      <replace>directionLevel32</replace>
+      <replace>drawObst</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>F:\Multimedia\game\levels\controller</dir>
+      <dir>F:\Multimedia\game\controller</dir>
+    </dirStrings>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/icebreaker/style.css" />
+        <option value="$PROJECT_DIR$/icebreaker/script_full.js" />
+        <option value="$PROJECT_DIR$/assets/js/gameEngine.js" />
+        <option value="$PROJECT_DIR$/icebreaker/index.html" />
+        <option value="$PROJECT_DIR$/game/levels/asd.js" />
+        <option value="$PROJECT_DIR$/game/levels/gameLevelOne.js" />
+        <option value="$PROJECT_DIR$/game/levels/gameLevelOne.html" />
+        <option value="$PROJECT_DIR$/game/levels/view/gameLevelOne.html" />
+        <option value="$PROJECT_DIR$/game/levels/view/brief/gameLevelOne.html" />
+        <option value="$PROJECT_DIR$/game/levels/view/brief/brief_gameLevelOne.html" />
+        <option value="$PROJECT_DIR$/game/levels/controller/components/Player.js" />
+        <option value="$PROJECT_DIR$/game/levels/controller/components/Keyboard.js/controller_gameLevelOne.js" />
+        <option value="$PROJECT_DIR$/game/levels/controller/controller_gameLevelOne.js" />
+        <option value="$PROJECT_DIR$/game/levels/view/action/action_gameLevelOne.html" />
+        <option value="$PROJECT_DIR$/game/levels/controller/controller_game.js" />
+        <option value="$PROJECT_DIR$/game/index.html" />
+        <option value="$PROJECT_DIR$/game/levels/view/action/action_game.html" />
+        <option value="$PROJECT_DIR$/game/levels/view/brief/brief_game.html" />
+        <option value="$PROJECT_DIR$/game/view/action/action_game.html" />
+        <option value="$PROJECT_DIR$/game/view/score/score_board_input.html" />
+        <option value="$PROJECT_DIR$/game/view/score/score_board.html" />
         <option value="$PROJECT_DIR$/assets/css/style.css" />
-        <option value="$PROJECT_DIR$/main/game.js" />
+        <option value="$PROJECT_DIR$/game/controller/controller_score.js" />
+        <option value="$PROJECT_DIR$/game/controller/controller_game.js" />
+        <option value="$PROJECT_DIR$/game/view/brief/brief_game.html" />
       </list>
     </option>
   </component>
@@ -81,10 +279,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="537" />
-    <option name="y" value="259" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -106,7 +304,51 @@
             <path>
               <item name="Multimedia" type="b2602c69:ProjectViewProjectNode" />
               <item name="Multimedia" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Multimedia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Multimedia" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Multimedia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Multimedia" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="sounds" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Multimedia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Multimedia" type="462c0819:PsiDirectoryNode" />
+              <item name="game" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Multimedia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Multimedia" type="462c0819:PsiDirectoryNode" />
+              <item name="game" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Multimedia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Multimedia" type="462c0819:PsiDirectoryNode" />
+              <item name="game" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Multimedia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Multimedia" type="462c0819:PsiDirectoryNode" />
+              <item name="game" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="action" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Multimedia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Multimedia" type="462c0819:PsiDirectoryNode" />
+              <item name="game" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="score" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -117,15 +359,26 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="G:\GitHub\Multimedia" />
+      <recent name="F:\Multimedia\game\view\action" />
+      <recent name="F:\Multimedia\game" />
+      <recent name="F:\Multimedia\game\levels\controller" />
+      <recent name="F:\Multimedia\game\levels\controller\components\Keyboard.js" />
+      <recent name="F:\Multimedia\game\levels\view" />
+    </key>
+    <key name="es6.move.members.recent.items">
+      <recent name="F:\Multimedia\game\levels\controller\components\Player.js" />
+      <recent name="F:\Multimedia\game\levels\asd.js" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Multimedia\game\controller" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -145,40 +398,97 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a09001fb-c70d-43c5-a685-b06b070d5a4a" name="Default Changelist" comment="" />
-      <created>1553437779623</created>
+      <changelist id="b621ca89-5f61-4876-9216-bd5832c45b90" name="Default Changelist" comment="" />
+      <created>1559036982308</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1553437779623</updated>
-      <workItem from="1553437780935" duration="2465000" />
+      <updated>1559036982308</updated>
+      <workItem from="1559036984826" duration="1751000" />
+      <workItem from="1559045766631" duration="4869000" />
+      <workItem from="1559062407714" duration="599000" />
+      <workItem from="1559063407090" duration="1278000" />
+      <workItem from="1559065806682" duration="3260000" />
+      <workItem from="1559070706759" duration="95000" />
+      <workItem from="1559114587746" duration="1893000" />
+      <workItem from="1559126133417" duration="572000" />
+      <workItem from="1559129560696" duration="704000" />
+      <workItem from="1559131275649" duration="1485000" />
+      <workItem from="1559149986141" duration="283000" />
+      <workItem from="1559199743124" duration="1443000" />
+      <workItem from="1559204776402" duration="2638000" />
+      <workItem from="1559208422745" duration="672000" />
+      <workItem from="1559217005173" duration="4140000" />
+      <workItem from="1559233083595" duration="691000" />
+      <workItem from="1559236686137" duration="1675000" />
+      <workItem from="1559241761316" duration="1315000" />
+      <workItem from="1559293186679" duration="1429000" />
+      <workItem from="1559297487904" duration="2336000" />
+      <workItem from="1559308006851" duration="599000" />
+      <workItem from="1559329903065" duration="2227000" />
+      <workItem from="1559386427365" duration="964000" />
+      <workItem from="1559417481826" duration="3666000" />
+      <workItem from="1559454042900" duration="1658000" />
+      <workItem from="1559458208685" duration="2829000" />
+      <workItem from="1559461819415" duration="2663000" />
+      <workItem from="1559465303545" duration="2191000" />
+      <workItem from="1559469382694" duration="1576000" />
+      <workItem from="1559490160298" duration="6028000" />
+      <workItem from="1559579092945" duration="992000" />
+      <workItem from="1559580321214" duration="9013000" />
+      <workItem from="1559643070603" duration="121000" />
+      <workItem from="1559647883895" duration="1036000" />
+      <workItem from="1559650814017" duration="7170000" />
+      <workItem from="1559663696812" duration="920000" />
+      <workItem from="1559664901088" duration="8414000" />
+      <workItem from="1559675860816" duration="1342000" />
+      <workItem from="1559717716539" duration="2461000" />
+      <workItem from="1559724256692" duration="23000" />
+      <workItem from="1559724581306" duration="6301000" />
+      <workItem from="1559738990881" duration="2632000" />
+      <workItem from="1559741658230" duration="8943000" />
+      <workItem from="1559756116504" duration="3114000" />
+      <workItem from="1559762155148" duration="623000" />
+      <workItem from="1559764111041" duration="2403000" />
+      <workItem from="1559802409380" duration="3239000" />
+      <workItem from="1559808112270" duration="1185000" />
+      <workItem from="1559810291198" duration="2668000" />
+      <workItem from="1559813443672" duration="3844000" />
+      <workItem from="1559818025498" duration="2833000" />
+      <workItem from="1559828251071" duration="599000" />
+      <workItem from="1559831671921" duration="1158000" />
+      <workItem from="1559834125050" duration="4140000" />
+      <workItem from="1559838463320" duration="35000" />
+      <workItem from="1559838932144" duration="465000" />
+      <workItem from="1559839589988" duration="208000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2465000" />
+    <option name="totallyTimeSpent" value="133411000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.45788914" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -188,23 +498,112 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/assets/images/checkerboard_level1.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/icebreaker/icebreaker.png" />
+    <entry file="file://$PROJECT_DIR$/assets/images/Obstacle.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/icebreaker/style.css" />
+    <entry file="file://$PROJECT_DIR$/icebreaker/script_full.js" />
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/game/levels/asd.js" />
+    <entry file="file://$PROJECT_DIR$/game/levels/controller/components/Player.js" />
+    <entry file="file://$PROJECT_DIR$/assets/images/checkerboard_HQ.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.webworker.d.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        <state relative-caret-position="299">
+          <caret line="2578" column="17" selection-start-line="2578" selection-start-column="17" selection-end-line="2578" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main/game.js">
+    <entry file="file://$PROJECT_DIR$/game/view/action/PacMan.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/jquery.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="34">
+          <caret line="2" column="22474" selection-start-line="2" selection-start-column="22474" selection-end-line="2" selection-end-column="22474" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/CollectBox.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game/view/brief/brief_game.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="104" selection-start-line="19" selection-start-column="104" selection-end-line="19" selection-end-column="104" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game/view/action/action_game.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="24" selection-start-line="5" selection-end-line="6" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game/view/score/score_board_input.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="51" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game/view/score/score_board.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" selection-start-column="15" selection-end-column="15" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game/controller/controller_game.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10999">
+          <caret line="649" column="16" selection-start-line="649" selection-start-column="16" selection-end-line="649" selection-end-column="16" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game/controller/controller_score.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4998">
+          <caret line="294" column="17" selection-start-line="294" selection-start-column="17" selection-end-line="294" selection-end-column="17" />
         </state>
       </provider>
     </entry>

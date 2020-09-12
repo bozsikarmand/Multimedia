@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Scoreboard</title>
+    <link rel="stylesheet" href="../../../assets/css/style.css" />
+</head>
+<body style="background-image: url(../../../assets/images/MainMenuBackground.png)" onload="kvUserScoreToTable()">
+<div class="center-scoreBoard">
+    <table id="scoreBoard">
+        <tr>
+            <th>Username</th>
+            <th>Score</th>
+            <th>Death count:</th>
+        </tr>
+    </table>
+    <br />
+    <button onclick="newGame()" id="button-NewGame">New Game</button>
+</div>
+<script src="../../controller/controller_score.js"></script>
+</body>
+</html>
